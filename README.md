@@ -200,7 +200,7 @@ rgb color map dict for BreCaHAD 1+4 classes.<br>
 [mask]
 mask_file_format = ".png"
 ; 1+6 classes
-; RGB colors    mitosis:blue, apoptosis:green,tumor: red, non-tumor:violet,lumen:cyan   non_lumen;yellow
+; RGB colors    mitosis:blue, apoptosis:green,tumor:red, non-tumor:violet,lumen:cyan   non_lumen:yellow
 rgb_map ={(0,0,0):0,(0,0,255):1,(0, 255,0):2 ,(255,0,0):3, (255,0,255):4,  (0,255,255):5,(255,255,0):6 }</pre>
 
 <b>Epoch change inference callback</b><br>
