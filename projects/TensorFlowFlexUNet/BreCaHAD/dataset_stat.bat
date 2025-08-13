@@ -1,4 +1,4 @@
 rem dataset_stat.bat
 
-python ../../../src/DatasetStatistics.py ../../../dataset/BreCAHAD
+python ../../../src/DatasetStatistics.py ../../../dataset/BreCaHAD
 
