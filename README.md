@@ -19,7 +19,7 @@ the center points specified in the annotation JSON files of the original BreCAHA
 </b>
 <br>
 <br>
-The derivation of our augmented dataset, please refer to our repository 
+On the derivation of our augmented dataset, please refer to our repository 
 <a href="https://github.com/sarah-antillia/Tiled-ImageMask-Dataset-BreCaHAD">Tiled-ImageMask-Dataset-BreCaHAD"</a> for 
 BreCaHAD Singleclass Tumor.
 <br>
