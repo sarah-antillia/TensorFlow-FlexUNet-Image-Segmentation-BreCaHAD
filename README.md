@@ -108,7 +108,7 @@ On the derivation of the dataset, please refer to the following Python scripts:<
 <br>
 -->
 <b>BreCaHAD Statistics</b><br>
-<img src ="./projects/TensorFlowFlexUNet/BreCaHAD/BreCaHAD_Statistics.png" width="512" height="auto"><br>
+<img src ="./projects/TensorFlowFlexUNet/BreCaHAD/BreCAHAD_Statistics.png" width="512" height="auto"><br>
 <br>
 
 As shown above, the number of images of train and valid datasets is not so large to use for a training set of our segmentation model.
