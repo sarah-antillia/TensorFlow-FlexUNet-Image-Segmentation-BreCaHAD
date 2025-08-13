@@ -58,7 +58,9 @@ PNG dataset appear similar to the ground truth masks.<br>
 <h3>1. Dataset Citation</h3>
 The dataset used here has been taken from the following figshare web site.<br>
 <br>
-<b>BreCaHAD: A Dataset for Breast Cancer Histopathological Annotation and Diagnosis</b>
+<a href="https://figshare.com/articles/dataset/BreCaHAD_A_Dataset_for_Breast_Cancer_Histopathological_Annotation_and_Diagnosis/7379186">
+https://figshare.com/articles/dataset/BreCaHAD_A_Dataset_for_Breast_Cancer_Histopathological_Annotation_and_Diagnosis/7379186
+</a>
 <br>
 <br>
 Aksac, Alper; Demetrick, Douglas J.; Özyer, Tansel; Alhajj, Reda (2019). <br>
